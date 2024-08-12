@@ -9,6 +9,9 @@ Requirement 1: Create Plots to Showcase the Relationship Between Weather Variabl
 ![image](https://github.com/user-attachments/assets/9e240afe-103b-49a1-8ba3-543a837b445d)
 
 Requirement 2: Compute Linear Regression for Each Relationship
+![image](https://github.com/user-attachments/assets/41845fe9-3082-4c5f-ad89-632568ee6669)
+![image](https://github.com/user-attachments/assets/536af850-172e-47db-9c9f-26fceb61ccfa)
+In the Northern Hemisphere, as latitude increases, the maximum temperature decreases. The r-value of -0.86 indicates a strong correlation with the data. In the Southern Hemisphere, as latitude increases, the maximum temperature increases. The r-value of 0.64 also indicates a strong correlation with the data.
 
 ## Part 2: VacationPy
 
