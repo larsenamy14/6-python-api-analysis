@@ -3,6 +3,10 @@
 ## Part 1: WeatherPy
 
 Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+![image](https://github.com/user-attachments/assets/f3515218-d3e9-4649-b101-e75e578fb5a1)
+![image](https://github.com/user-attachments/assets/53febd76-173f-42dd-b657-f721bc4cb80a)
+![image](https://github.com/user-attachments/assets/4af4ceff-9afa-4997-9cf2-32f70177c005)
+![image](https://github.com/user-attachments/assets/9e240afe-103b-49a1-8ba3-543a837b445d)
 
 Requirement 2: Compute Linear Regression for Each Relationship
 
